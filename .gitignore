@@ -1,0 +1,13 @@
+*.iml
+*.apk
+bin/
+captures/*
+gen/
+*.dex
+.gradle
+/local.properties
+/.idea/*
+!/.idea/copyright
+!/.idea/scopes
+.DS_Store
+/build
