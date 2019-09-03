@@ -63,3 +63,12 @@ As my time with working on this app was limited, I wanted to concentrate on the 
 - Add search functionality to search for videos.
 - Currently the app implements and infinite scroller. This could be changed to have a button and search functionality to search videos from a particular page.
 - Implement an in-app video player/floating window.
+
+### Visual Diff
+* Before
+ 
+![screenshot-before](app/src/main/res/drawable/screenshot-before.png)
+
+* After
+ 
+![screenshot-after](app/src/main/res/drawable/screenshot-after.png)
